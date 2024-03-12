@@ -1,1 +1,0 @@
-packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"m":"HelloWorldEclipse","l":"com.itbulls"}];updateSearchResults();
