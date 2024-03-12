@@ -1,6 +1,0 @@
-alt + shift + r -> rename all occurrences
-ctrl + shift + f -> format code
-alt + shift + l -> replace all occurrences with variable, create variable
-alt + shift + m -> extract method
-ctrl + shift + o -> organize import statements
-
