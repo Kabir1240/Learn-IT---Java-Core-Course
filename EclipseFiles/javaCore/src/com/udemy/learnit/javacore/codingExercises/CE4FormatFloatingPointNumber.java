@@ -1,7 +1,7 @@
 package com.udemy.learnit.javacore.codingExercises;
 import java.util.Formatter;
 
-public class CodingExercise4 {
+public class CE4FormatFloatingPointNumber {
 
 	public static void main(String[] args) {
 		Formatter formatter = new Formatter();

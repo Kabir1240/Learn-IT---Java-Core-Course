@@ -1,6 +1,6 @@
 package com.udemy.learnit.javacore.codingExercises;
 
-public class CodingExercise7 {
+public class CE7SimpleNumberCalculator {
 
 	public static void main(String[] args) {
         if (args[0].contains(".") || args[1].contains(".")){

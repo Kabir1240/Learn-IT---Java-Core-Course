@@ -1,6 +1,6 @@
 package com.udemy.learnit.javacore.codingExercises;
 
-public class CodingExercise1 {
+public class CE1ConsoleIntegerCalculator {
 
 	public static void main(String[] args) {
 		int i;

@@ -1,7 +1,7 @@
 package com.udemy.learnit.javacore.codingExercises;
 import java.util.Scanner;
 
-public class CodingExercise2 {
+public class CE2AreaOfTriangle {
 	public static void main(String[] args) 
 	{
 		Scanner sc = new Scanner(System.in);

@@ -1,6 +1,6 @@
 package com.udemy.learnit.javacore.codingExercises;
 
-public class CodingExercise6 {
+public class CE6AdminAndGuestMode {
 
 	public static void main(String[] args) {
 		String inputArguments = String.join(",", args);

@@ -1,7 +1,7 @@
 package com.udemy.learnit.javacore.codingExercises;
 import java.util.Scanner;
 
-public class CodingExercise8 {
+public class CE8UserActivitySelector {
 
 	public static void main(String[] args) {
 		System.out.print("Please, enter action name: ");
