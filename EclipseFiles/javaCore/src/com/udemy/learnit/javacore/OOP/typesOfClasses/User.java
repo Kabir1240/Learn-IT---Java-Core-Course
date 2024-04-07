@@ -2,7 +2,7 @@ package com.udemy.learnit.javacore.OOP.typesOfClasses;
 
 import java.util.Arrays;
 
-import com.itbulls.learnit.javacore.oop.classes.Product;
+import com.udemy.learnit.javacore.OOP.typesOfClasses.Product;
 
 public class User {
 	

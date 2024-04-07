@@ -1,11 +1,14 @@
 package com.udemy.learnit.javacore.OOP.typesOfClasses;
 
+import java.math.BigDecimal;
+
 public abstract class Product {
 	
 	private int id;
 	private String name;
 	private int minOrderQuantity;
 	private boolean isDeliveryAvailable;
+	private BigDecimal price;
 	
 	public abstract boolean isAvailableInStock();
 	
@@ -39,4 +42,7 @@ public abstract class Product {
 		this.isDeliveryAvailable = isDeliveryAvailable;
 	}
 
+	public BigDecimal getPrice() {
+		return price;
+	}
 }
