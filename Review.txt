@@ -1,0 +1,19 @@
+Pros
+- Very extensive coverage over topics associated with Java. 
+- Great syllabus.
+- Goes through interview questions. Coding exercises are also based off interviews. Useful if you're looking to work in the field
+- Clearly a huge amount of effort and experience put into the source code and videos.
+- Communication access.
+
+Cons
+- One of the biggest things for me is...it's boring. Ill explain why in the next few points:
+- The coding questions aren't enjoyable to code. They're based more off of interview questions which can be pretty boring. Its useful in it's own way but not fun. I would prefer simple games or fun programs to put my knew knowledge into use.
+- The slides aren't very interactive. A lot of memorization is involved and you have to often go back to review because of a lot of information.
+- Involves a lot of just reading through large amounts of code and / or listening to Andrii explain it.
+
+- Second main point is, its not beginner friendly in my opinion, heres why:
+- Relies heavily on self researching skills and ability to practice by yourself.
+- Andrii uses terms that coders would know, but none coders wouldn't without realizing. I imagine he's used to talking to programmers.
+- Can often information overload.
+
+As someone who has a degree in CS, I found this course extremely valuable in supplementing what I know and I learnt a lotttt more too. I'm used to sitting through dry lectures because of University  as well as a lot of self studying which really helped me. If you're able to make it through the course despite its flaws, the knowledge you gain is extremely helpful. I just wish it wasn't so difficult to make it through. However, I don't think I saw any other java course that covers such a wide array of topics. I highly suggest making more fun programs with the information you learn in your own time. Maybe make some simple console games. Play around with the code Andrii provides too.

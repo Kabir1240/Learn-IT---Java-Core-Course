@@ -1,0 +1,31 @@
+My answers to OOP questions In Udemy Course:
+
+Q1: What is OOP?
+-> OOP, or object oriented programming, as the name suggests is a coding methodology which heavily
+relies on Objects. Instead of executing code line by line, OOP can be used to create instances
+and execute code from various classes. 
+
+correct answer:
+OOP is a programming methodology based on the representation of a software product as a collection
+of objects, each of which is an instance of a particular class. Object takes the main place in 
+this software design approach. Object can be described as data structure (some state) plus some 
+behavior to modify and interact with this data (state). OOP uses the interaction of objects as its
+basic elements.
+
+Q2: What is an object?
+-> An object is essentially a data structure. It is an instance of a class, which acts as the
+blueprint for each instance. An object will inherit all of the attributes and behaviors of its
+class, but may vary from instance to instance, in terms of what it contains.
+
+Correct Answer:
+An object is a named model of a real entity that has specific property values and manifests its 
+behavior. Object has a set of data (fields and properties of an object) that is physically 
+located in the computer's memory. Also, object has methods that have access to the data (fields 
+and properties). An object is a concrete instance of a class.
+
+Q3: Name the basic principles of OOP:
+->
+- Abstraction
+- Encapsulation
+- Inheritance
+- Polymorphism
