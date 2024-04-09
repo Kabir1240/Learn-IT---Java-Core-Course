@@ -8,7 +8,7 @@ public class CE23 {
 			Rectangle rectangle = new Rectangle (10, 15);
 			Circle circle = new Circle(20);
 			
-			List<Shape> shapes = new ArrayList<Shape>();
+			List<Shape> shapes = new ArrayList<>();
 			shapes.add(rectangle);
 			shapes.add(circle);
 			
